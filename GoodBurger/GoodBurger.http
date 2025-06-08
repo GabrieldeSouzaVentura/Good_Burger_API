@@ -1,0 +1,6 @@
+@GoodBurger_HostAddress = http://localhost:5155
+
+GET {{GoodBurger_HostAddress}}/goodburger/
+Accept: application/json
+
+###
