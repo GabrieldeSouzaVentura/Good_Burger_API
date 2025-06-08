@@ -1,7 +1,9 @@
-# Good_Burger_API
+<h1>Good_Burger_API</h1>
 My First Web API Restful | Service system of a hamburger shop |
 
-📦 Packages used in this project
+
+📦 Packages used in this project:
+
 BCrypt.Net-Next – Provides secure password hashing using the BCrypt algorithm.
 
 Microsoft.AspNetCore.Authentication.JwtBearer – Supports JWT-based authentication in ASP.NET Core applications.
