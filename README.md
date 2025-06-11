@@ -1,20 +1,28 @@
 <h1>Good_Burger_API</h1>
 My First Web API Restful | Service system of a hamburger shop |
 
+
 Good Burger is a RESTful Web API for a burger ordering system. It was developed in C# using ASP.NET Core with Entity Framework Core, featuring user authentication and an in-memory SQLite database.
+
 
 Good Burger Features:
 
 User registration and login
+
 Create, retrieve, update, and delete orders
+
 Order organization and management
+
 
 Main Technologies, Frameworks, and Libraries:
 
 Backend: .NET C#
+
 Databases: SQLite (in-memory), MongoDB
 
+
 The idea behind Good Burger is to provide a simple system that allows customers to place their orders quickly and easily.
+
 
 📦 Packages used in this project:
 
