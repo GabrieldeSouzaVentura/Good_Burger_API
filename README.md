@@ -10,7 +10,7 @@ Good Burger is a RESTful Web API for a burger ordering system. It was developed 
 - **User registration and login**
 - **Create, retrieve, update, and delete orders**
 - **Order organization and management**
-- **jwt authentication with 'user' and 'admin' roles**
+- **jwt authentication with `user` and `admin` roles**
 
 ---
 ## Users
@@ -29,7 +29,7 @@ Good Burger is a RESTful Web API for a burger ordering system. It was developed 
 - **Burger list**
 - **Extra list**
 - **Menu list**
-- **Order: 'Get', 'Post', 'Put' and 'Delete'**
+- **Order: `Get`, `Post`, `Put` and `Delete`**
 
 ---
 
@@ -48,7 +48,7 @@ Good Burger is a RESTful Web API for a burger ordering system. It was developed 
 - **Visual Studio 2022**
 
 ### 2. Clone repository
-''''gh repo clone GabrieldeSouzaVentura/Good_Burger_API''''
+````gh repo clone GabrieldeSouzaVentura/Good_Burger_API````
 - **open with visual studio 2022**
 
 ---
@@ -56,24 +56,24 @@ Good Burger is a RESTful Web API for a burger ordering system. It was developed 
 ## 🔧Endpoints
 
 ### 🎮AuthController 
-- 'Post/CreateRole' - Create Role(**Exclusive**)
-- 'Post/AddUserToRole' - Add users to roles(**Exclusive**)
-- 'Post/Login' - Login user
-- 'Post/Register' - Register user
-- 'Post/RefreshToken' - Refresh Token
-- 'Post/Revoke' - Revoke user (**Admin**)
+- `Post/CreateRole` - Create Role(**Exclusive**)
+- `Post/AddUserToRole` - Add users to roles(**Exclusive**)
+- `Post/Login` - Login user
+- `Post/Register` - Register user
+- `Post/RefreshToken` - Refresh Token
+- `Post/Revoke` - Revoke user (**Admin**)
 
 ### 🍔Burger
-- 'Get/GetBurger' - Get burger list (**User**)
+- `Get/GetBurger` - Get burger list (**User**)
 
 ### ➕Extra
-- 'Get/GetExtras' - Get extras list (**User**)
+- `Get/GetExtras` - Get extras list (**User**)
 
 ### 🙋‍♂️Order
-- 'Get/Order/MyOrder' - Get order list (**User**)
-- 'Post/Order/CreateOrder' - Place order(**User**)
-- 'Put/Order/UpdateOrder/{Id}' - Update order (**User**)
-- 'Delete/DeleteOrder/{Id}' - Delete the order(**User**)
+- `Get/Order/MyOrder` - Get order list (**User**)
+- `Post/Order/CreateOrder` - Place order(**User**)
+- `Put/Order/UpdateOrder/{Id}` - Update order (**User**)
+- `Delete/DeleteOrder/{Id}` - Delete the order(**User**)
 
 ---
 
