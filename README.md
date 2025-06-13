@@ -10,9 +10,11 @@ Good Burger is a RESTful Web API for a burger ordering system. It was developed 
 - **User registration and login**
 - **Create, retrieve, update, and delete orders**
 - **Order organization and management**
-- **jwt authentication with `user` and `admin` roles**
+- **Jwt authentication with `user` and `admin` roles**
+- **Logger to record project behavior**
 
 ---
+
 ## Users
 
 ### 👨‍💻Exclusive
