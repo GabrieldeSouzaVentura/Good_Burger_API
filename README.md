@@ -48,7 +48,9 @@ Good Burger is a RESTful Web API for a burger ordering system. It was developed 
 - **Visual Studio 2022**
 
 ### 2. Clone repository
-````gh repo clone GabrieldeSouzaVentura/Good_Burger_API````
+````
+gh repo clone GabrieldeSouzaVentura/Good_Burger_API
+````
 - **open with visual studio 2022**
 
 ---
